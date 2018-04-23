@@ -1,3 +1,5 @@
 biology
 chemistry 
 physics
+application laboratory
+information system management
